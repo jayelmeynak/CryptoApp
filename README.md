@@ -15,6 +15,8 @@
 ## Стек
  - Язык: kotlin
  - Работа с базой данных: Room
+ - Работа с сетью: Retrofit2
+ - Работа с фоновым режимом: WorkManager
  - Многопоточность: Kotlin Coroutine
  - View: XML
  - Архитектура: Clean Architecture
